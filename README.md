@@ -7,6 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/dhiranshsaxena/)
 [![GMail](https://img.shields.io/badge/GMail-contact-D44638.svg?logo=gmail&logoColor=white)](mailto:dhiranshsaxena@gmail.com)
 
-![Info](https://i.imgur.com/ocL6gnH.png)
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DhiranshSaxena&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true" alt="My Contributions"></p>
+
+
+![Info](https://i.imgur.com/ocL6gnH.png)
